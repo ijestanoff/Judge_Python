@@ -8,3 +8,4 @@ for key, val in text_dic.items():
     if key != " ":
         print(f"{key} -> {val}")
 
+# test

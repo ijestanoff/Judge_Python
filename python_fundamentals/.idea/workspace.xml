@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4803e357-d7b3-42de-94ad-17345b6cd518" name="Changes" comment="" />
+    <list default="true" id="4803e357-d7b3-42de-94ad-17345b6cd518" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dictionaries_exercise/01_count_chars_in_a_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries_exercise/01_count_chars_in_a_string.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
